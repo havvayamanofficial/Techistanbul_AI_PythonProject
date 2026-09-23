@@ -1,0 +1,9 @@
+En Başarılı Model: Logistic Regression
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93        43
+           1       0.92      0.92      0.92        38
+
+    accuracy                           0.93        81
+   macro avg       0.93      0.93      0.93        81
+weighted avg       0.93      0.93      0.93        81
